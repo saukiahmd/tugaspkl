@@ -36,7 +36,12 @@
 </template>
 <script>
 export default {
-    
+    link: [
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap'
+        }
+      ]
 }
 </script>
 <style scoped>
@@ -48,7 +53,7 @@ export default {
         line-height: 48px;
     }
     .block {
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Poppins', sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 600;

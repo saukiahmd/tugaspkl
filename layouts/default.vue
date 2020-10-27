@@ -2,6 +2,7 @@
   <div>
     <Navbar />
     <About />
+    <Events />
     <Nuxt />
   </div>
 </template>
