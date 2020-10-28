@@ -3,6 +3,11 @@
     <Navbar />
     <About />
     <Events />
+    <Artist />
+    <Extrapages />
+    <Video />
+    <Extrapages1 />
+    <Organized />
     <Nuxt />
   </div>
 </template>

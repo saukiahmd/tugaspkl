@@ -144,7 +144,7 @@ export default {
         line-height: 18px;
     }
     .jadwal {
-        background: grey;
+        background-color: #F5F5F5;
         padding: 1rem;
     }
     .topnav a:hover {

@@ -1,7 +1,7 @@
 <template>
     <div class="background position-relative text-white">
             <div class="text position-asbsolute grid lg:grid-cols-2 gap-20">
-                    <div><img src="../assets/img/Johnlennon.png" alt="gambar"></div>
+                    <div><img src="../assets/img/Johnlennon.png" alt="gambar" class="mt-10"></div>
                     <div class="text-right my-auto mb-20 mr-20">
                         <h5>ROCKINTERVIEW</h5>
                         <h1>JOHN ANGELZ</h1>
